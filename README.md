@@ -63,6 +63,14 @@
 dotnet build KeyboardController.csproj
 ```
 
+## 发布包
+
+已提供 Windows x64 发行包，可在仓库 Release 中下载：
+
+- 文件名：`CH9329_comkeybord_v1.0.0_win-x64.zip`
+- 运行要求：安装 .NET 6 Runtime
+- 使用方式：解压后运行 `KeyboardController.exe`
+
 ## 使用说明
 
 1. 连接 CH9329 设备

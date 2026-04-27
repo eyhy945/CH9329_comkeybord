@@ -28,3 +28,6 @@ test_2000_lines.txt
 # External materials / references
 TOOLS/
 CH340DS1.PDF
+
+# Local publish output
+publish/
