@@ -1,0 +1,30 @@
+# Build outputs
+bin/
+obj/
+build-temp/
+
+# IDE
+.vs/
+.vscode/
+
+# Claude / local tooling
+.claude/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+debug.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary / test artifacts
+test_2000_lines.txt
+
+# External materials / references
+TOOLS/
+CH340DS1.PDF
